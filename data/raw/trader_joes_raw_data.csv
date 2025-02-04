@@ -1,0 +1,287 @@
+,name,address
+0,Trader Joe's Hollywood (206),"<div class=""address-left"">
+<div>
+<a class=""capital listitem"" data-linktrack=""Landing page"" href=""/ca/los-angeles/206/"">
+<span class=""ga_w2gi_lp"" data-gaact=""Click_to_ViewLocalPage"" data-galoc=""1600 N Vine St - Los Angeles"" style=""font-weight:bold; font-size: 16px;"">
+        					                			Trader Joe's Hollywood (206)
+        					             		    </span>
+</a>
+</div>
+<span>1600 N Vine St</span>
+<br/>
+<span>Los Angeles</span>,
+	        			                	<span>CA</span>
+<span>90028</span>
+<span>US</span>
+<br/>
+<a aria-label=""Call Trader Joe's Hollywood (206), Los Angeles on +1 323-856-0689"" class=""phone-btn"" href=""tel:+1 323-856-0689"" id=""0"" onclick=""window.parent.location = 'tel:+1 323-856-0689';"" tabindex=""0"">+1 323-856-0689</a>
+<script>
+															var getPhone = '+1 323-856-0689';
+															var getCountry = 'US';
+															var spanId = '0';
+															var formattedPhone = formatPhoneNumber(getPhone,getCountry);
+															var phoneInfo = document.getElementById(`${spanId}`);
+															phoneInfo.innerHTML = `${formattedPhone}`;
+														</script>
+<br/>
+</div>"
+1,Trader Joe's Los Angeles - 3rd & Fairfax (240),"<div class=""address-left"">
+<div>
+<a class=""capital listitem"" data-linktrack=""Landing page"" href=""/ca/los-angeles/240/"">
+<span class=""ga_w2gi_lp"" data-gaact=""Click_to_ViewLocalPage"" data-galoc=""175 South Fairfax Ave - Los Angeles"" style=""font-weight:bold; font-size: 16px;"">
+        					                			Trader Joe's Los Angeles - 3rd &amp; Fairfax (240)
+        					             		    </span>
+</a>
+</div>
+<span>175 South Fairfax Ave</span>
+<br/>
+<span>Los Angeles</span>,
+	        			                	<span>CA</span>
+<span>90036</span>
+<span>US</span>
+<br/>
+<a aria-label=""Call Trader Joe's Los Angeles - 3rd &amp; Fairfax (240), Los Angeles on +1 323-931-4012"" class=""phone-btn"" href=""tel:+1 323-931-4012"" id=""1"" onclick=""window.parent.location = 'tel:+1 323-931-4012';"" tabindex=""0"">+1 323-931-4012</a>
+<script>
+															var getPhone = '+1 323-931-4012';
+															var getCountry = 'US';
+															var spanId = '1';
+															var formattedPhone = formatPhoneNumber(getPhone,getCountry);
+															var phoneInfo = document.getElementById(`${spanId}`);
+															phoneInfo.innerHTML = `${formattedPhone}`;
+														</script>
+<br/>
+</div>"
+2,Trader Joe's Los Angeles - Burton Way (237),"<div class=""address-left"">
+<div>
+<a class=""capital listitem"" data-linktrack=""Landing page"" href=""/ca/los-angeles/237/"">
+<span class=""ga_w2gi_lp"" data-gaact=""Click_to_ViewLocalPage"" data-galoc=""8500 Burton Way - Los Angeles"" style=""font-weight:bold; font-size: 16px;"">
+        					                			Trader Joe's Los Angeles - Burton Way (237)
+        					             		    </span>
+</a>
+</div>
+<span>8500 Burton Way</span>
+<br/>
+<span>Los Angeles</span>,
+	        			                	<span>CA</span>
+<span>90048</span>
+<span>US</span>
+<br/>
+<a aria-label=""Call Trader Joe's Los Angeles - Burton Way (237), Los Angeles on +1 310-248-2984"" class=""phone-btn"" href=""tel:+1 310-248-2984"" id=""2"" onclick=""window.parent.location = 'tel:+1 310-248-2984';"" tabindex=""0"">+1 310-248-2984</a>
+<script>
+															var getPhone = '+1 310-248-2984';
+															var getCountry = 'US';
+															var spanId = '2';
+															var formattedPhone = formatPhoneNumber(getPhone,getCountry);
+															var phoneInfo = document.getElementById(`${spanId}`);
+															phoneInfo.innerHTML = `${formattedPhone}`;
+														</script>
+<br/>
+</div>"
+3,Trader Joe's Los Angeles (31),"<div class=""address-left"">
+<div>
+<a class=""capital listitem"" data-linktrack=""Landing page"" href=""/ca/los-angeles/31/"">
+<span class=""ga_w2gi_lp"" data-gaact=""Click_to_ViewLocalPage"" data-galoc=""263 S La Brea Ave - Los Angeles"" style=""font-weight:bold; font-size: 16px;"">
+        					                			Trader Joe's Los Angeles (31)
+        					             		    </span>
+</a>
+</div>
+<span>263 S La Brea Ave</span>
+<br/>
+<span>Los Angeles</span>,
+	        			                	<span>CA</span>
+<span>90036</span>
+<span>US</span>
+<br/>
+<a aria-label=""Call Trader Joe's Los Angeles (31), Los Angeles on +1 323-965-1989"" class=""phone-btn"" href=""tel:+1 323-965-1989"" id=""3"" onclick=""window.parent.location = 'tel:+1 323-965-1989';"" tabindex=""0"">+1 323-965-1989</a>
+<script>
+															var getPhone = '+1 323-965-1989';
+															var getCountry = 'US';
+															var spanId = '3';
+															var formattedPhone = formatPhoneNumber(getPhone,getCountry);
+															var phoneInfo = document.getElementById(`${spanId}`);
+															phoneInfo.innerHTML = `${formattedPhone}`;
+														</script>
+<br/>
+</div>"
+4,Trader Joe's Olympic Blvd (215),"<div class=""address-left"">
+<div>
+<a class=""capital listitem"" data-linktrack=""Landing page"" href=""/ca/los-angeles/215/"">
+<span class=""ga_w2gi_lp"" data-gaact=""Click_to_ViewLocalPage"" data-galoc=""11755 Olympic Blvd - Los Angeles"" style=""font-weight:bold; font-size: 16px;"">
+        					                			Trader Joe's Olympic Blvd (215)
+        					             		    </span>
+</a>
+</div>
+<span>11755 Olympic Blvd</span>
+<br/>
+<span>Los Angeles</span>,
+	        			                	<span>CA</span>
+<span>90064</span>
+<span>US</span>
+<br/>
+<a aria-label=""Call Trader Joe's Olympic Blvd (215), Los Angeles on +1 310-477-5949"" class=""phone-btn"" href=""tel:+1 310-477-5949"" id=""4"" onclick=""window.parent.location = 'tel:+1 310-477-5949';"" tabindex=""0"">+1 310-477-5949</a>
+<script>
+															var getPhone = '+1 310-477-5949';
+															var getCountry = 'US';
+															var spanId = '4';
+															var formattedPhone = formatPhoneNumber(getPhone,getCountry);
+															var phoneInfo = document.getElementById(`${spanId}`);
+															phoneInfo.innerHTML = `${formattedPhone}`;
+														</script>
+<br/>
+</div>"
+5,Trader Joe's Silver Lake (17),"<div class=""address-left"">
+<div>
+<a class=""capital listitem"" data-linktrack=""Landing page"" href=""/ca/los-angeles/17/"">
+<span class=""ga_w2gi_lp"" data-gaact=""Click_to_ViewLocalPage"" data-galoc=""2738 Hyperion Ave - Los Angeles"" style=""font-weight:bold; font-size: 16px;"">
+        					                			Trader Joe's Silver Lake (17)
+        					             		    </span>
+</a>
+</div>
+<span>2738 Hyperion Ave</span>
+<br/>
+<span>Los Angeles</span>,
+	        			                	<span>CA</span>
+<span>90027</span>
+<span>US</span>
+<br/>
+<a aria-label=""Call Trader Joe's Silver Lake (17), Los Angeles on +1 323-665-6774"" class=""phone-btn"" href=""tel:+1 323-665-6774"" id=""5"" onclick=""window.parent.location = 'tel:+1 323-665-6774';"" tabindex=""0"">+1 323-665-6774</a>
+<script>
+															var getPhone = '+1 323-665-6774';
+															var getCountry = 'US';
+															var spanId = '5';
+															var formattedPhone = formatPhoneNumber(getPhone,getCountry);
+															var phoneInfo = document.getElementById(`${spanId}`);
+															phoneInfo.innerHTML = `${formattedPhone}`;
+														</script>
+<br/>
+</div>"
+6,Trader Joe's Sunset Blvd (192),"<div class=""address-left"">
+<div>
+<a class=""capital listitem"" data-linktrack=""Landing page"" href=""/ca/los-angeles/192/"">
+<span class=""ga_w2gi_lp"" data-gaact=""Click_to_ViewLocalPage"" data-galoc=""8000 W Sunset Blvd - Los Angeles"" style=""font-weight:bold; font-size: 16px;"">
+        					                			Trader Joe's Sunset Blvd (192)
+        					             		    </span>
+</a>
+</div>
+<span>8000 W Sunset Blvd</span>
+<br/>
+<span>Los Angeles</span>,
+	        			                	<span>CA</span>
+<span>90046</span>
+<span>US</span>
+<br/>
+<a aria-label=""Call Trader Joe's Sunset Blvd (192), Los Angeles on +1 323-822-7663"" class=""phone-btn"" href=""tel:+1 323-822-7663"" id=""6"" onclick=""window.parent.location = 'tel:+1 323-822-7663';"" tabindex=""0"">+1 323-822-7663</a>
+<script>
+															var getPhone = '+1 323-822-7663';
+															var getCountry = 'US';
+															var spanId = '6';
+															var formattedPhone = formatPhoneNumber(getPhone,getCountry);
+															var phoneInfo = document.getElementById(`${spanId}`);
+															phoneInfo.innerHTML = `${formattedPhone}`;
+														</script>
+<br/>
+</div>"
+7,Trader Joe's USC Village (250),"<div class=""address-left"">
+<div>
+<a class=""capital listitem"" data-linktrack=""Landing page"" href=""/ca/los-angeles/250/"">
+<span class=""ga_w2gi_lp"" data-gaact=""Click_to_ViewLocalPage"" data-galoc=""3131 S Hoover Street - Los Angeles"" style=""font-weight:bold; font-size: 16px;"">
+        					                			Trader Joe's USC Village (250)
+        					             		    </span>
+</a>
+</div>
+<span>3131 S Hoover Street</span>
+<br/>
+<span>Los Angeles</span>,
+	        			                	<span>CA</span>
+<span>90089</span>
+<span>US</span>
+<br/>
+<a aria-label=""Call Trader Joe's USC Village (250), Los Angeles on +1 213-749-1497"" class=""phone-btn"" href=""tel:+1 213-749-1497"" id=""7"" onclick=""window.parent.location = 'tel:+1 213-749-1497';"" tabindex=""0"">+1 213-749-1497</a>
+<script>
+															var getPhone = '+1 213-749-1497';
+															var getCountry = 'US';
+															var spanId = '7';
+															var formattedPhone = formatPhoneNumber(getPhone,getCountry);
+															var phoneInfo = document.getElementById(`${spanId}`);
+															phoneInfo.innerHTML = `${formattedPhone}`;
+														</script>
+<br/>
+</div>"
+8,Trader Joe's West Los Angeles - Sepulveda (119),"<div class=""address-left"">
+<div>
+<a class=""capital listitem"" data-linktrack=""Landing page"" href=""/ca/los-angeles/119/"">
+<span class=""ga_w2gi_lp"" data-gaact=""Click_to_ViewLocalPage"" data-galoc=""3456 S Sepulveda Blvd - Los Angeles"" style=""font-weight:bold; font-size: 16px;"">
+        					                			Trader Joe's West Los Angeles - Sepulveda (119)
+        					             		    </span>
+</a>
+</div>
+<span>3456 S Sepulveda Blvd</span>
+<br/>
+<span>Los Angeles</span>,
+	        			                	<span>CA</span>
+<span>90034</span>
+<span>US</span>
+<br/>
+<a aria-label=""Call Trader Joe's West Los Angeles - Sepulveda (119), Los Angeles on +1 310-836-2458"" class=""phone-btn"" href=""tel:+1 310-836-2458"" id=""8"" onclick=""window.parent.location = 'tel:+1 310-836-2458';"" tabindex=""0"">+1 310-836-2458</a>
+<script>
+															var getPhone = '+1 310-836-2458';
+															var getCountry = 'US';
+															var spanId = '8';
+															var formattedPhone = formatPhoneNumber(getPhone,getCountry);
+															var phoneInfo = document.getElementById(`${spanId}`);
+															phoneInfo.innerHTML = `${formattedPhone}`;
+														</script>
+<br/>
+</div>"
+9,Trader Joe's West Los Angeles (7),"<div class=""address-left"">
+<div>
+<a class=""capital listitem"" data-linktrack=""Landing page"" href=""/ca/los-angeles/7/"">
+<span class=""ga_w2gi_lp"" data-gaact=""Click_to_ViewLocalPage"" data-galoc=""10850 National Blvd - Los Angeles"" style=""font-weight:bold; font-size: 16px;"">
+        					                			Trader Joe's West Los Angeles (7)
+        					             		    </span>
+</a>
+</div>
+<span>10850 National Blvd</span>
+<br/>
+<span>Los Angeles</span>,
+	        			                	<span>CA</span>
+<span>90064</span>
+<span>US</span>
+<br/>
+<a aria-label=""Call Trader Joe's West Los Angeles (7), Los Angeles on +1 310-470-1917"" class=""phone-btn"" href=""tel:+1 310-470-1917"" id=""9"" onclick=""window.parent.location = 'tel:+1 310-470-1917';"" tabindex=""0"">+1 310-470-1917</a>
+<script>
+															var getPhone = '+1 310-470-1917';
+															var getCountry = 'US';
+															var spanId = '9';
+															var formattedPhone = formatPhoneNumber(getPhone,getCountry);
+															var phoneInfo = document.getElementById(`${spanId}`);
+															phoneInfo.innerHTML = `${formattedPhone}`;
+														</script>
+<br/>
+</div>"
+10,Trader Joe's Westwood (234),"<div class=""address-left"">
+<div>
+<a class=""capital listitem"" data-linktrack=""Landing page"" href=""/ca/los-angeles/234/"">
+<span class=""ga_w2gi_lp"" data-gaact=""Click_to_ViewLocalPage"" data-galoc=""1000 Glendon Ave - Los Angeles"" style=""font-weight:bold; font-size: 16px;"">
+        					                			Trader Joe's Westwood (234)
+        					             		    </span>
+</a>
+</div>
+<span>1000 Glendon Ave</span>
+<br/>
+<span>Los Angeles</span>,
+	        			                	<span>CA</span>
+<span>90024</span>
+<span>US</span>
+<br/>
+<a aria-label=""Call Trader Joe's Westwood (234), Los Angeles on +1 310-824-1495"" class=""phone-btn"" href=""tel:+1 310-824-1495"" id=""10"" onclick=""window.parent.location = 'tel:+1 310-824-1495';"" tabindex=""0"">+1 310-824-1495</a>
+<script>
+															var getPhone = '+1 310-824-1495';
+															var getCountry = 'US';
+															var spanId = '10';
+															var formattedPhone = formatPhoneNumber(getPhone,getCountry);
+															var phoneInfo = document.getElementById(`${spanId}`);
+															phoneInfo.innerHTML = `${formattedPhone}`;
+														</script>
+<br/>
+</div>"
